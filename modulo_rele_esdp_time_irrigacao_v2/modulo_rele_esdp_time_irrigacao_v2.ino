@@ -18,8 +18,8 @@ char auth[] = "0f347e7b56e5441a9ea9a2e7e5bf52ac";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Guto";
-char pass[] = "homePAAP";
+char ssid[] = "";
+char pass[] = "";
 
  BLYNK_WRITE(V0)
 {
